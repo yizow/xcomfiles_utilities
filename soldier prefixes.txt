@@ -1,0 +1,12 @@
+.FR*B-NAME
+
+. - Maxed
+* - Need training
+
+F - Firing
+R - Reactions
+B - Bravery(40 for Flight training, 50 for tactical neural)
+T - Throwing (55 for ninja)
+M - Melee (65 for ninja)
+
+TU, STA, STR, SAN all rise naturally, no need to specifically train.

@@ -1,0 +1,40 @@
+assuming:
+STR - 50
+THR - 60
+MEL - 60
+REA - 50
+
+Name
+Acc Pow(Armor) TU
+
+Battle Axe
+54 107 15
+Combat Knife
+45 42 7
+Tritanium Knife
+45 42(.8) 7
+Machete
+64 41 6
+Kukri (50/70/90 BRA)
+51 45/55/67 6
+Billhook (70 BRA)
+52 75 15
+Saber
+60 57(1.2) 10
+Wakizashi
+60 48(1.2) 9
+Greatsword
+54 94(1.25) 13
+Katana
+60 80(1.4) 12
+Ancient Katana
+60 92[+.3PSI](.9) 12
+Tritanium Sword
+57 92 12
+
+Deep One Hatchet 
+64 76 12
+Deep One Spear (kinetic)
+88 62(.7) 16
+Vibroblade
+54 80(.6) 16
