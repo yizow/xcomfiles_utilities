@@ -38,3 +38,5 @@ Deep One Spear (kinetic)
 88 62(.7) 16
 Vibroblade
 54 80(.6) 16
+Shogg Staff (concussive)
+72 67 17
